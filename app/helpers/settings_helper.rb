@@ -16,6 +16,7 @@ module SettingsHelper
     id: 'Bahasa Indonesia',
     io: 'Ido',
     it: 'Italiano',
+    kab: 'Taqbaylit',
     ja: '日本語',
     nl: 'Nederlands',
     no: 'Norsk',
