@@ -40,6 +40,7 @@ module Mastodon
       :id,
       :io,
       :it,
+      :kab,
       :ja,
       :nl,
       :no,
